@@ -1,0 +1,6 @@
+{
+    "name": "useJsonfile",
+    "dependencies": {
+        "jsonfile": "^4.0.0"
+    }
+}
