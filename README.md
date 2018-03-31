@@ -1,1 +1,3 @@
-# JavaScript-Learning
+# 简述
+
+JavaScript学习之路。
